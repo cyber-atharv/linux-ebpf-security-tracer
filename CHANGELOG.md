@@ -11,3 +11,6 @@ All notable changes to linux-ebpf-security-tracer will be documented in this fil
 ## [0.1.2] - 2025-08-26
 - feat: stream kernel events via perf ring buffer to user space
 
+## [0.1.3] - 2025-08-29
+- refactor: simplify user space event parser in Go
+
